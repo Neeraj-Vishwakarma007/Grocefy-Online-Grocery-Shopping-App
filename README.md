@@ -49,6 +49,3 @@ An end-to-end **Java Full Stack** grocery shopping platform enabling vendors to 
   - View reports
   - Manage users & vendors
 
----
-
-## 📁 Folder Structure (if applicable)
