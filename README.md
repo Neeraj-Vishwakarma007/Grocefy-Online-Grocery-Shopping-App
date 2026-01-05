@@ -2,9 +2,6 @@
 
 An end-to-end **Java Full Stack** grocery shopping platform enabling vendors to manage inventory and customers to place, track, and receive orders online with secure authentication and real-time communication.
 
-## 📅 Project Timeline
-**December 2023**
-
 ---
 
 ## 🚀 Tech Stack
