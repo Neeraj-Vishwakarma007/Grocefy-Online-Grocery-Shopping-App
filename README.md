@@ -10,7 +10,7 @@ An end-to-end **Java Full Stack** grocery shopping platform enabling vendors to 
 - **Frontend**: JSP, HTML, Bootstrap  
 - **Database**: MySQL  
 - **Server**: Apache Tomcat 9  
-- **Security & Communication**: JavaMail API, Twilio SDK, Google reCAPTCHA  
+- **Security & Communication**: JavaMail API, Twilio SDK, Apache Kafka, Google reCAPTCHA  
 - **Documentation**: OpenAPI (Swagger)
 
 ---
